@@ -2,6 +2,8 @@
 
 ## Overview
 
+**Team 5, Arsenii Stratiuk, Viktor Syrotiuk**
+
 This repository contains a student lab project focused on implementing and analyzing fundamental tree algorithms and a Decision Tree classifier. The project is divided into two main tasks:
 
 1. **Task 1: Graph Algorithm Analysis**  
